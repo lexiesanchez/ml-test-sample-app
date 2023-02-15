@@ -1,4 +1,4 @@
-# Sample App Utilizing my custom Vue 3 Component Library (Initial Testing)
+# Sample App Utilizing custom Vue 3 Component Library (Initial Testing)
 
 NPM Package:
 https://www.npmjs.com/package/ml-test-vue-components
