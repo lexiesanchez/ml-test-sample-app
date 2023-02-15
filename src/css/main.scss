@@ -1,0 +1,37 @@
+@import './base.scss';
+
+.bg-info {
+  background: $info;
+}
+.bg-error {
+  background: $error;
+}
+.bg-warning {
+  background: $warning;
+}
+.bg-success {
+  background: $success;
+}
+.bg-primary {
+  background: $primary;
+}
+
+.banner-bg-info {
+  background: $bg-info;
+}
+
+.banner-bg-error {
+  background: $bg-error;
+}
+
+.banner-bg-warning {
+  background: $bg-warning;
+}
+
+.banner-bg-success {
+  background: $bg-success;
+}
+
+.text-white {
+  color: #fff
+}
